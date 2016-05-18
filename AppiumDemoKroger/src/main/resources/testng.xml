@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" >
+     <listeners>
+		<listener class-name="com.pack.listners.ListenerClass" />
+		<listener class-name="com.pack.listners.ExtentReporterNG" />
+	<!-- 	<listener class-name="com.pack.listners.TestListener" /> -->
+		
+	</listeners>
+   <!--  <parameter name="phoneNumber" value="9740172752"/> -->
+    
+  <test name="Test" preserve-order="true">
+    <classes>
+        <class name="com.pack.test.EnterPhoneNumberTest"/>
+     <!--  <class name="com.pack.test.RechargeTest"/> -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

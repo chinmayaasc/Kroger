@@ -24,6 +24,7 @@ public class TestListener implements ITestListener{
 	@Override
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
+		System.out.println("test automation");
 		
 	}
 

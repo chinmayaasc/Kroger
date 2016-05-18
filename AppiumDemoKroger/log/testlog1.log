@@ -4259,3 +4259,155 @@
 2016-05-18 12:40:11,291 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
 2016-05-18 12:40:11,744 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
 2016-05-18 12:40:12,073 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:07:39,889 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:07:41,560 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:07:41,854 [pool-1-thread-1] INFO Recharge - Phone Operator displayed is: AIRTEL
+2016-05-18 15:07:41,854 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:07:42,144 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:07:42,941 [pool-1-thread-1] INFO Recharge - PlanBrowsed
+2016-05-18 15:07:42,941 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Browse Plans
+2016-05-18 15:07:44,303 [pool-1-thread-1] INFO Recharge - Clicked on Special
+2016-05-18 15:07:48,318 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:07:51,984 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:07:56,085 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:07:59,652 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Special Recharge
+2016-05-18 15:08:03,998 [pool-1-thread-1] INFO Recharge - rechargeamount is Rs 12
+2016-05-18 15:08:04,185 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: net.one97.paytm:id/row_container
+2016-05-18 15:08:04,950 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:08:06,469 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - Two cards are of equal values
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - Recharge amount displayed is: 12
+2016-05-18 15:08:06,778 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToRecharge
+2016-05-18 15:08:07,304 [pool-1-thread-1] INFO Recharge - ProcedToRecharge button displayed
+2016-05-18 15:08:13,690 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToPay
+2016-05-18 15:08:14,466 [pool-1-thread-1] INFO Recharge - proceedToPay button displayed
+2016-05-18 15:08:24,134 [pool-1-thread-1] INFO Recharge - Clicked on backbutton
+2016-05-18 15:08:27,252 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:08:27,533 [pool-1-thread-1] INFO Recharge - AlertText Captured Cancel Transaction
+2016-05-18 15:08:27,533 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:08:27,875 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: android:id/button1
+2016-05-18 15:08:29,712 [pool-1-thread-1] INFO Recharge - ButtonText Captured is Yes
+2016-05-18 15:08:29,712 [pool-1-thread-1] INFO Recharge - Yes button clicked on Alert
+2016-05-18 15:08:35,715 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:08:36,139 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:08:36,829 [pool-1-thread-1] INFO Recharge - Failed statement verified
+2016-05-18 15:08:36,829 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:08:37,267 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:08:37,806 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:11:30,803 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:11:32,481 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:11:32,748 [pool-1-thread-1] INFO Recharge - Phone Operator displayed is: AIRTEL
+2016-05-18 15:11:32,748 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:11:33,045 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:11:33,320 [pool-1-thread-1] INFO Recharge - PlanBrowsed
+2016-05-18 15:11:33,320 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Browse Plans
+2016-05-18 15:11:34,400 [pool-1-thread-1] INFO Recharge - Clicked on Special
+2016-05-18 15:11:38,523 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:11:42,590 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:11:46,573 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:11:50,397 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Special Recharge
+2016-05-18 15:11:54,884 [pool-1-thread-1] INFO Recharge - rechargeamount is Rs 12
+2016-05-18 15:11:55,035 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: net.one97.paytm:id/row_container
+2016-05-18 15:11:55,905 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:11:57,427 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - Two cards are of equal values
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - Recharge amount displayed is: 12
+2016-05-18 15:11:57,746 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToRecharge
+2016-05-18 15:11:58,246 [pool-1-thread-1] INFO Recharge - ProcedToRecharge button displayed
+2016-05-18 15:12:04,633 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToPay
+2016-05-18 15:12:05,616 [pool-1-thread-1] INFO Recharge - proceedToPay button displayed
+2016-05-18 15:12:13,407 [pool-1-thread-1] INFO Recharge - Clicked on backbutton
+2016-05-18 15:12:16,467 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:12:16,576 [pool-1-thread-1] INFO Recharge - AlertText Captured Cancel Transaction
+2016-05-18 15:12:16,576 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:12:16,900 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: android:id/button1
+2016-05-18 15:12:18,712 [pool-1-thread-1] INFO Recharge - ButtonText Captured is Yes
+2016-05-18 15:12:18,712 [pool-1-thread-1] INFO Recharge - Yes button clicked on Alert
+2016-05-18 15:12:24,727 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:12:25,329 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:12:25,960 [pool-1-thread-1] INFO Recharge - Failed statement verified
+2016-05-18 15:12:25,960 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:12:26,398 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:12:26,774 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:14:21,170 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:14:22,224 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:14:22,527 [pool-1-thread-1] INFO Recharge - Phone Operator displayed is: AIRTEL
+2016-05-18 15:14:22,527 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:14:23,768 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:14:24,065 [pool-1-thread-1] INFO Recharge - PlanBrowsed
+2016-05-18 15:14:24,065 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Browse Plans
+2016-05-18 15:14:25,146 [pool-1-thread-1] INFO Recharge - Clicked on Special
+2016-05-18 15:14:29,697 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:14:33,896 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:14:37,930 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:14:40,485 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Special Recharge
+2016-05-18 15:14:45,709 [pool-1-thread-1] INFO Recharge - rechargeamount is Rs 12
+2016-05-18 15:14:45,849 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: net.one97.paytm:id/row_container
+2016-05-18 15:14:46,469 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:14:48,063 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - Two cards are of equal values
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - Recharge amount displayed is: 12
+2016-05-18 15:14:48,359 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToRecharge
+2016-05-18 15:14:48,895 [pool-1-thread-1] INFO Recharge - ProcedToRecharge button displayed
+2016-05-18 15:14:55,302 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToPay
+2016-05-18 15:14:55,849 [pool-1-thread-1] INFO Recharge - proceedToPay button displayed
+2016-05-18 15:15:24,482 [pool-1-thread-1] INFO Recharge - Clicked on backbutton
+2016-05-18 15:15:27,990 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:15:28,193 [pool-1-thread-1] INFO Recharge - AlertText Captured Cancel Transaction
+2016-05-18 15:15:28,193 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:15:28,466 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: android:id/button1
+2016-05-18 15:15:30,255 [pool-1-thread-1] INFO Recharge - ButtonText Captured is Yes
+2016-05-18 15:15:30,255 [pool-1-thread-1] INFO Recharge - Yes button clicked on Alert
+2016-05-18 15:15:36,270 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:16:04,457 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:16:05,103 [pool-1-thread-1] INFO Recharge - Failed statement verified
+2016-05-18 15:16:05,103 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:16:05,449 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:16:06,105 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:39:14,187 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:39:15,728 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:39:15,993 [pool-1-thread-1] INFO Recharge - Phone Operator displayed is: AIRTEL
+2016-05-18 15:39:15,993 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:39:16,880 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/text_mob_op
+2016-05-18 15:39:17,114 [pool-1-thread-1] INFO Recharge - PlanBrowsed
+2016-05-18 15:39:17,114 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Browse Plans
+2016-05-18 15:39:18,862 [pool-1-thread-1] INFO Recharge - Clicked on Special
+2016-05-18 15:39:23,076 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:39:27,427 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:39:31,258 [pool-1-thread-1] INFO Recharge - Scrolling
+2016-05-18 15:39:34,976 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.name: Special Recharge
+2016-05-18 15:39:39,139 [pool-1-thread-1] INFO Recharge - rechargeamount is Rs 12
+2016-05-18 15:39:39,264 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: net.one97.paytm:id/row_container
+2016-05-18 15:39:40,075 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:39:41,317 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.id: net.one97.paytm:id/edit_amount
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - 12
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - Two cards are of equal values
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - Recharge amount displayed is: 12
+2016-05-18 15:39:41,613 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToRecharge
+2016-05-18 15:39:42,097 [pool-1-thread-1] INFO Recharge - ProcedToRecharge button displayed
+2016-05-18 15:39:48,508 [pool-1-thread-1] INFO Recharge - Clicked on ProcedToPay
+2016-05-18 15:39:49,243 [pool-1-thread-1] INFO Recharge - proceedToPay button displayed
+2016-05-18 15:39:57,180 [pool-1-thread-1] INFO Recharge - Clicked on backbutton
+2016-05-18 15:40:00,232 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:40:00,467 [pool-1-thread-1] INFO Recharge - AlertText Captured Cancel Transaction
+2016-05-18 15:40:00,467 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Cancel Transaction
+2016-05-18 15:40:00,783 [pool-1-thread-1] INFO SeleniumBusiness - -Clicking element located at : By.id: android:id/button1
+2016-05-18 15:40:02,558 [pool-1-thread-1] INFO Recharge - ButtonText Captured is Yes
+2016-05-18 15:40:02,559 [pool-1-thread-1] INFO Recharge - Yes button clicked on Alert
+2016-05-18 15:40:08,570 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:40:09,971 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:40:10,346 [pool-1-thread-1] INFO Recharge - Failed statement verified
+2016-05-18 15:40:10,346 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:40:11,124 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited
+2016-05-18 15:40:11,638 [pool-1-thread-1] INFO SeleniumBusiness - -Fetching text for the element in location: By.name: Payment Confirmation Awaited

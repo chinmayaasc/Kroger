@@ -18,12 +18,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class AppiumTestBase {
 	public static AndroidDriver ad;
-	 public static String PropertyFilePath = "C:\\Users\\chinmayas\\git1\\AppiumDemoFrameWork\\resources\\config.properties"; 
 	
-		
-		/*String excelpath;
-		String excelSheetname;
-*/    public static AndroidDriver getAndroidDriver() {
+	   public static AndroidDriver getAndroidDriver() {
         return ad;
     }
 
@@ -64,23 +60,5 @@ public class AppiumTestBase {
 			ad.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		   
     }
-	 void loadproperties(){
 	
-             try {
-            	 Properties prop=new Properties();  
-            	
-            	 InputStream	 input = new FileInputStream(PropertyFilePath); 
-            	 prop.load(input);
-			
-			String	excelpath = prop.getProperty("excelpath");
-			String	excelSheetname = prop.getProperty("sheetname");
-				System.out.println(excelpath);
-				System.out.println(excelSheetname);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-            
-       
-	 }
 }

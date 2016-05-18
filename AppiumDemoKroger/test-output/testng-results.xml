@@ -8,16 +8,16 @@
       <![CDATA[Recharge amount displayed is: 12]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="138652" started-at="2016-05-18T07:07:56Z" finished-at="2016-05-18T07:10:15Z">
+  <suite name="Suite" duration-ms="106542" started-at="2016-05-18T10:08:28Z" finished-at="2016-05-18T10:10:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="138652" started-at="2016-05-18T07:07:56Z" finished-at="2016-05-18T07:10:15Z">
+    <test name="Test" duration-ms="106542" started-at="2016-05-18T10:08:28Z" finished-at="2016-05-18T10:10:15Z">
       <class name="com.pack.test.EnterPhoneNumberTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="initialize" is-config="true" duration-ms="55443" started-at="2016-05-18T12:37:56Z" finished-at="2016-05-18T12:38:52Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="initialize" is-config="true" duration-ms="28444" started-at="2016-05-18T15:38:28Z" finished-at="2016-05-18T15:38:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="phoneNumberText(java.lang.String)[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="phoneNumberText" duration-ms="65424" started-at="2016-05-18T12:38:52Z" data-provider="createAccount" finished-at="2016-05-18T12:39:57Z">
+        <test-method status="PASS" signature="phoneNumberText(java.lang.String)[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="phoneNumberText" duration-ms="59339" started-at="2016-05-18T15:38:57Z" data-provider="createAccount" finished-at="2016-05-18T15:39:56Z">
           <params>
             <param index="0">
               <value>
@@ -34,11 +34,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- phoneNumberText -->
-        <test-method status="PASS" signature="cancelRechargeTest()[pri:1, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="cancelRechargeTest" duration-ms="13836" started-at="2016-05-18T12:39:57Z" finished-at="2016-05-18T12:40:11Z">
+        <test-method status="PASS" signature="cancelRechargeTest()[pri:1, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="cancelRechargeTest" duration-ms="14466" started-at="2016-05-18T15:39:56Z" finished-at="2016-05-18T15:40:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cancelRechargeTest -->
-        <test-method status="FAIL" signature="failedTest()[pri:2, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="failedTest" duration-ms="875" started-at="2016-05-18T12:40:11Z" finished-at="2016-05-18T12:40:12Z">
+        <test-method status="FAIL" signature="failedTest()[pri:2, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="failedTest" duration-ms="1268" started-at="2016-05-18T15:40:11Z" finished-at="2016-05-18T15:40:12Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Payment Confirmation Awaited1] but found [Payment Confirmation Awaited]]]>
@@ -72,7 +72,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failedTest -->
-        <test-method status="SKIP" signature="testCaseSkip()[pri:3, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="testCaseSkip" duration-ms="0" started-at="2016-05-18T12:40:14Z" finished-at="2016-05-18T12:40:14Z">
+        <test-method status="SKIP" signature="testCaseSkip()[pri:3, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="testCaseSkip" duration-ms="0" started-at="2016-05-18T15:40:13Z" finished-at="2016-05-18T15:40:13Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping this exception]]>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseSkip -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="tearDown" is-config="true" duration-ms="1082" started-at="2016-05-18T12:40:14Z" finished-at="2016-05-18T12:40:15Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pack.test.EnterPhoneNumberTest@29ee9faa]" name="tearDown" is-config="true" duration-ms="1146" started-at="2016-05-18T15:40:13Z" finished-at="2016-05-18T15:40:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
